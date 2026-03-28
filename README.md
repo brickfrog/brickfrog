@@ -6,13 +6,16 @@
 </td>
 <td align="center" valign="middle">
 <pre>
-    _   _
-   (.)_(.)
+_   _
+(.)_(.)
 _ (   _   ) _
 / \/`-----'\/ \
 __\ ( (     ) ) /__
 )   /\ \._./ /\   (
  )_/ /|\   /|\ \_(
 </pre>
+</td>
+<td>
+<img src="TelegramQR.jpg" width="130" alt="Telegram" />
 </td>
 </tr></table>
