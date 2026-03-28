@@ -1,5 +1,10 @@
-<h2 align="center" style="font-size: 16px"> $\color{pink}{\textrm{(∩｀-´)⊃}}$ $\color{yellow}{\textrm{★}}$ .*・｡ﾟ $\color{green}{\textrm{𓆏}}$ </h2>
+<table align="center" border="0"><tr>
+<td align="center" valign="middle">
 
-<p align="center">
-  <img src="IMG_1678.JPEG" width="160" alt="WeChat" />
-</p>
+$\color{pink}{\textrm{(∩｀-´)⊃}}$ $\color{yellow}{\textrm{★}}$ .*・｡ﾟ $\color{green}{\textrm{𓆏}}$
+
+</td>
+<td align="center" valign="middle">
+<img src="IMG_1678.JPEG" width="130" alt="WeChat" />
+</td>
+</tr></table>
