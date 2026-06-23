@@ -1,20 +1,12 @@
-<h2 align="center" style="font-size: 16px"> $\color{pink}{\textrm{(∩｀-´)⊃}}$ $\color{yellow}{\textrm{★}}$ .*・｡ﾟ $\color{green}{\textrm{𓆏}}$ </h2>
+<!-- live status served from https://api.justin.vc/svg
+     refreshes whenever GitHub's image proxy revalidates (~5min to a few hours) -->
 
-<table align="center" border="0"><tr>
-<td align="center" valign="middle">
-<img src="IMG_1678.JPEG" width="130" alt="WeChat" />
-</td>
-<td align="center" valign="middle">
-<pre>
-                                .--.
-  _     _     _     _     _     .' '. '.
-  / \   / \   / \   / \   / \   /_____\__\
-  \|/   \|/   \|/   \|/   \|/   |  _  |[]|
-______|_____|_____|_____|_____|____| |_| |  |__ 
-------------------------------------------------
-</pre>
-</td>
-<td>
-<img src="TelegramQR.jpg" width="130" alt="Telegram" />
-</td>
-</tr></table>
+![](https://api.justin.vc/svg)
+
+&nbsp;
+
+active: [choir](https://github.com/brickfrog/choir) &nbsp;·&nbsp; [moonsorter](https://github.com/brickfrog/moonsorter) &nbsp;·&nbsp; [verbum-diei](https://github.com/brickfrog/verbum-diei) &nbsp;·&nbsp; moonbit ecosystem ([moontrace](https://github.com/brickfrog/moontrace), [tempo](https://github.com/brickfrog/tempo), [pippa](https://github.com/brickfrog/pippa))
+
+&nbsp;
+
+`curl https://justin.vc` &nbsp;·&nbsp; [justin.vc](https://justin.vc)
